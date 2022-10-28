@@ -1,4 +1,4 @@
-# CI/CD для проекта API YAMDB. ![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+# CI/CD для проекта API YAMDB. ![example workflow](https://github.com/redbull7214/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 Примеры запросов:
 http://51.250.88.241/redoc/
