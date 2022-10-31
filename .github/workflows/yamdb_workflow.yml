@@ -38,6 +38,7 @@ jobs:
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_PASSWORD }}
           repository: redbull7214/yamdb:latest
+          context: ./api_yamdb/ 
           tag_with_ref: true
   deploy:
     runs-on: ubuntu-latest
